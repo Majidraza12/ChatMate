@@ -6,7 +6,7 @@ The Chat Application is a real-time messaging platform that allows users to comm
 ## Features
 - **Real-Time Messaging**: Instant communication with WebSocket technology.
 - **User Authentication**: Secure login and registration.
-- **Private and Group Chats**: Chat one-on-one or in groups.
+- **Private and Group Chats**: Chat one-on-on
 - **Media Sharing**: Send images, videos, and files.
 - **Responsive Design**: Optimized for both desktop and mobile devices.
 
